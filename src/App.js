@@ -7,7 +7,7 @@ class App extends Component {
         super(props);
 
         this.state = {
-            tasks: ['2'],
+            tasks: [],
             input: ''
         }
     }
@@ -41,7 +41,7 @@ class App extends Component {
                     <InputGroup.Append>
                         <Button
                             onClick={() => this.addTask()}
-                            >
+                        >
                             Add Task
                         </Button>
                     </InputGroup.Append>
