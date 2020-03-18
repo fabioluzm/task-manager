@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/task-manager/static/js/main.c301324e.chunk.js",
-    "main.js.map": "/task-manager/static/js/main.c301324e.chunk.js.map",
+    "main.js": "/task-manager/static/js/main.4dc92a5b.chunk.js",
+    "main.js.map": "/task-manager/static/js/main.4dc92a5b.chunk.js.map",
     "runtime-main.js": "/task-manager/static/js/runtime-main.38ed45e5.js",
     "runtime-main.js.map": "/task-manager/static/js/runtime-main.38ed45e5.js.map",
     "static/css/2.de424728.chunk.css": "/task-manager/static/css/2.de424728.chunk.css",
     "static/js/2.4761c5e1.chunk.js": "/task-manager/static/js/2.4761c5e1.chunk.js",
     "static/js/2.4761c5e1.chunk.js.map": "/task-manager/static/js/2.4761c5e1.chunk.js.map",
     "index.html": "/task-manager/index.html",
-    "precache-manifest.dfa39e42f3c31638772cbdba3b6c8808.js": "/task-manager/precache-manifest.dfa39e42f3c31638772cbdba3b6c8808.js",
+    "precache-manifest.b3f7fcf27774780acd00c5904bc00701.js": "/task-manager/precache-manifest.b3f7fcf27774780acd00c5904bc00701.js",
     "service-worker.js": "/task-manager/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/task-manager/static/css/2.de424728.chunk.css.map",
     "static/js/2.4761c5e1.chunk.js.LICENSE.txt": "/task-manager/static/js/2.4761c5e1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.38ed45e5.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.4761c5e1.chunk.js",
-    "static/js/main.c301324e.chunk.js"
+    "static/js/main.4dc92a5b.chunk.js"
   ]
 }
